@@ -1,0 +1,122 @@
+[
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 12:55:07",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.442715,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    },
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 13:13:39",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.346735,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    },
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 13:16:23",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.432798,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    },
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 13:19:20",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.344703,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    },
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 13:25:48",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.346754,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    },
+    {
+        "target": "127.0.0.1",
+        "scan_time": "2026-09-24 13:26:26",
+        "scan_profile": "Service Detection",
+        "scan_arguments": "-sV",
+        "scan_duration": 0.39928,
+        "results": [
+            {
+                "port": 22,
+                "service": "ssh",
+                "product": "OpenSSH",
+                "version": "10.3p1 Debian 4",
+                "risk": "MEDIUM",
+                "recommendation": "SSH should use strong authentication and secure configuration.",
+                "reason": "This service can provide useful functionality but should be securely configured and restricted.",
+                "host": "127.0.0.1",
+                "protocol": "tcp"
+            }
+        ]
+    }
+]

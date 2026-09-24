@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*_backup.py
+app_old.py
+app_before_modularization.py
